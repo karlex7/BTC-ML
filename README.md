@@ -3,7 +3,7 @@ BTC-ml is a web app for a ANN trading system. BTC-ml helps us to predict Bitcoin
 
  <p>BTC-ml uses Artificial neural network to predict movement of Bitcoin.</p>
             <p>The data that was used to train ANN derived from Candle stick data and volume traded in BTC.</p>
-            <img src="static/img/Green or red candlestick (graphic 1).png" style="max-width: 70%;">
+            <img src="https://a.c-dn.net/c/content/dam/publicsites/igcom/uk/images/ContentImage/BULLISH%20BEARISH%20CANDLESTICK-150620.jpg" style="max-width: 70%;">
             <p>BTC-ml uses 34 features that were extracted from candlestick data. 3 different time frames were used 1 day, 4 hours and 1 hour.</p>
             <p>1 minute time frame had too many noise, so it didn't give good results.</p>
             <p>We utilze few tehnical indicators used by financial experts.</p>
